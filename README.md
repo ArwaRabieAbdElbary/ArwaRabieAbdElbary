@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Arwa Rabie 👋
+### Frontend Developer 
 
-<!--
-**ArwaRabieAbdElbary/ArwaRabieAbdElbary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend developer passionate about building modern, responsive, and user-centric web applications.  
+🎯 Focused on React, Vue.js, and clean UI/UX design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 ITI Graduate – Frontend Track
+- 💡 Strong interest in UI/UX & scalable frontend architecture
+- 🌍 Based in Egypt
+- 📫 Reach me at: **arwarabie295@gmail.com**
+
+---
+
+## 🛠 Tech Stack
+**Frontend:** React, Vue.js, JavaScript (ES6+), TypeScript  
+**Styling:** Tailwind CSS, CSS3  
+**Tools:** Git, GitHub, Figma  
+**Backend / Services:** Firebase, REST APIs  
+
+
+👉 Check pinned repositories below ⬇️
